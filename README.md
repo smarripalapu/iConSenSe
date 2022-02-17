@@ -9,10 +9,10 @@ Install ifcOpenShell-python from http://ifcopenshell.org/python <br>
 
 #### ifcConvertPipeline script version for linux OS
 This script can be used to convert ifc files to .dae files/xml files and import them directly to. new unity project. <br>
-To execute, \n
+To execute, <br>
 python ifcConvertPipelineLinux.py
 
 #### ifcConvertPipeline script version for windows OS
-This script can be used to convert ifc files to .dae files/xml files and import them directly to. new unity project. \n
-To execute,  \n
+This script can be used to convert ifc files to .dae files/xml files and import them directly to. new unity project. <br>
+To execute,  <br>
 py ifcConvertPipelineWin.py
