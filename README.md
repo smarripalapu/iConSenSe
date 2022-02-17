@@ -1,0 +1,2 @@
+# iConSenSe
+Extracting IFC properties
